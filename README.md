@@ -1,5 +1,6 @@
 # sportsstore
-
+```
+This Project follows the Apress Pro Vue.js2 book released earlier this year
 ## Project setup
 ```
 npm install
